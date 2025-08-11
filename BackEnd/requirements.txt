@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+PyPDF2
+python-docx
+pandas
+openpyxl
+faiss-cpu       # Linux/macOS
+# faiss-windows-cpu  # Use this instead on Windows if faiss-cpu fails

@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Node modules (for frontend)
+node_modules/
+
+# Other common ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
